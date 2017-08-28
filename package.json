@@ -1,0 +1,8 @@
+{
+  "name": "dl-jira-issues-for-project",
+  "version": "1.0.0",
+  "description": "Given a JIRA session cookie, a project name, and a JIRA server address, this module will create a project tree of JSON files representing every issue in the project.",
+  "main": "index.js",
+  "author": "Christopher McMorran",
+  "license": "MIT"
+}
